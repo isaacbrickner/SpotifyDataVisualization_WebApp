@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(255, 255, 255);
+  height: 80px;
+}
+
+body {
+  background-color: rgb(255, 162, 244);
+}
+
+main, footer {
+  margin: 10px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  text-align: center;
+  padding: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+}
+
+tr {
+  background-color: white;
+}
